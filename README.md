@@ -49,11 +49,19 @@ CoinShell is a Python-based command-line application that allows users to query 
 
 ### Example Usage
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   > victoria pennyShowing 3 results.> silver sort year limit 5Showing 5 results (out of 23 matching).> monarch george v count12 matching coins.> randomShowing 1 result.   `
+    > victoria penny
+    Showing 3 results.
+    > silver sort year limit 5
+    Showing 5 results (out of 23 matching).
+    > monarch george v count
+    12 matching coins.
+    > random
+    Showing 1 result.   `
 
 ### Getting Started
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone https://github.com/YOURNAME/coinshell.gitcd coinshellpython3 coinshell.py   `
+    git clone https://github.com/YOURNAME/coinshell.git
+    cd coinshell
+    python3 coinshell.py   `
 
 ### Project Structure
 
